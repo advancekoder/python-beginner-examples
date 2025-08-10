@@ -1,2 +1,2 @@
 # python-beginner-examples
-Welcome to python-beginner-examples, a collection of fun, beginner-friendly Python projects like football quizzes and score trackers to learn coding basics. Perfect for students or mentors, these easy-to-understand examples keep you engaged through hands-on projects.
+Welcome to python-beginner-examples, a collection of fun, beginner-friendly Python projects designed to help you learn coding basics! This repository features examples like football quizzes and score trackers, perfect for exploring Python through hands-on projects. Whether you're a student or mentor, these examples are designed to be easy to understand and fun to build, keep you engaged.
